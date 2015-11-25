@@ -1,0 +1,15 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+export PYBUILD_NAME=jmespath
+
+%:
+	dh $@ --with python2,python3 --buildsystem=pybuild
+
+override_dh_install:
+	dh_install
+	rm -f $(CURDIR)/debian/python-jmespath/usr/bin/jp.py
+	rm -f $(CURDIR)/debian/python3-jmespath/usr/bin/jp.py

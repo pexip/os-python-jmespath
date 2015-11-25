@@ -1,0 +1,11 @@
+# see git-dpm(1) from git-dpm package
+475be3837428024b98ceb30539ccc1b9c1b4d173
+475be3837428024b98ceb30539ccc1b9c1b4d173
+475be3837428024b98ceb30539ccc1b9c1b4d173
+475be3837428024b98ceb30539ccc1b9c1b4d173
+python-jmespath_0.9.0.orig.tar.gz
+642800c1bc901a440639d5743c9cd74ba59c2d4a
+20855
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"

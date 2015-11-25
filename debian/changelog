@@ -1,0 +1,24 @@
+python-jmespath (0.9.0-2) unstable; urgency=medium
+
+  * debian/control: Add python-nose and python3-nose to Build-Depends.
+    (Closes: #804557)
+
+ -- TANIGUCHI Takaki <takaki@debian.org>  Wed, 25 Nov 2015 11:17:32 +0900
+
+python-jmespath (0.9.0-1) unstable; urgency=medium
+
+  * new upstream version
+
+ -- TANIGUCHI Takaki <takaki@debian.org>  Tue, 24 Nov 2015 23:40:03 +0900
+
+python-jmespath (0.4.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- TANIGUCHI Takaki <takaki@debian.org>  Mon, 23 Jun 2014 00:35:03 +0900
+
+python-jmespath (0.2.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #734131)
+
+ -- TANIGUCHI Takaki <takaki@debian.org>  Sun, 29 Dec 2013 14:26:19 +0900
