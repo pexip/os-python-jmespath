@@ -5,6 +5,7 @@ Maintainer: Pexip AS <packaging@pexip.com>
 XSBC-Pexip-Original-Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
 XSBC-Pexip-Original-Uploaders: TANIGUCHI Takaki <takaki@debian.org>
 Build-Depends: debhelper (>= 9)
+	, dh-python
 	, python-all
 	, python-setuptools
 	, python3-all
