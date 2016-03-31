@@ -1,8 +1,14 @@
+python-jmespath (0.9.0-2pexip2) pexip; urgency=low
+
+  * Bump version number
+
+ -- Ian Mortimer <ian@pexip.com>  Thu, 31 Mar 2016 15:04:29 +0000
+
 python-jmespath (0.9.0-2pexip1) pexip; urgency=low
 
   * Prepare Pexip packaging
 
- -- Ian Mortimer <ian@pexp.com>  Fri, 11 Mar 2016 10:32:29 +0000
+ -- Ian Mortimer <ian@pexip.com>  Fri, 11 Mar 2016 10:32:29 +0000
 
 python-jmespath (0.9.0-2) unstable; urgency=medium
 
